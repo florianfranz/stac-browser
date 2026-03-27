@@ -1,5 +1,5 @@
 export default {
-    catalogUrl: null,
+    catalogUrl: "https://raw.githubusercontent.com/florianfranz/palaeo-data-cube/main/stac/Palaeo-Data-Cube/catalog.json",
     catalogTitle: "STAC Browser",
     catalogImage: null,
     allowExternalAccess: true, // Must be true if catalogUrl is not given
