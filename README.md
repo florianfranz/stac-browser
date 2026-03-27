@@ -4,6 +4,11 @@ This is an adaptation of the STAC Browser for the [Palaeo Data Cube](https://git
 
 The web interface is [live](https://palaeo-data-cube.github.io/stac-browser/)
 
+
+
+STAC-Browser information from Radiant Earth
+==============================================
+
 This is a full-fledged [Spatio-Temporal Asset Catalog (STAC)](https://github.com/radiantearth/stac-spec) browser for STAC APIs and static STAC catalogs.
 
 Version: **5.0.0-dev** (supports all STAC versions between 0.6.0 and 1.1.0)
