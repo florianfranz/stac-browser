@@ -1,6 +1,8 @@
 # STAC Browser
 
-This is an adaptation of the STAC Browser for the [Palaeo Data Cube](https://github.com/florianfranz/palaeo-data-cube)
+This is an adaptation of the STAC Browser for the [Palaeo Data Cube](https://github.com/florianfranz/palaeo-data-cube).
+
+The web interface is [live](https://palaeo-data-cube.github.io/stac-browser/)
 
 This is a full-fledged [Spatio-Temporal Asset Catalog (STAC)](https://github.com/radiantearth/stac-spec) browser for STAC APIs and static STAC catalogs.
 
