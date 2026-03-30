@@ -4,7 +4,23 @@ This is an adaptation of the STAC Browser for the [Palaeo Data Cube](https://git
 
 The web interface is [live](https://palaeo-data-cube.github.io/stac-browser/)
 
+## Available Collections
 
+This catalog contains **10 collections**. Each collection represents a reconstructed Earth system variable through geological time.
+Each collection is organized as follows: one **item per age** (in Ma), with two **assets per item** (Equal Area and Geographic projections).
+
+| Collection | Description |
+|---|---|
+| Palaeogeography | Topographic maps (m) accounting for sea-level variations |
+| Seafloor Ages | Age of the oceanic crust (Ma) |
+| Crustal Thickness | Thickness of the Earth's crust (km)|
+| Lithospheric Thickness | Thickness of the lithosphere (km)|
+| Hydrothermal Penetration | Hydrothermal fluid penetration depth (km) |
+| Flow Direction | Palaeo-drainage flow direction (D8) |
+| Flow Accumulation | Palaeo-drainage upstream contributing area (#of pixels) |
+| Köppen-Geiger Climate Zones | Two-letter climate zone classification |
+| Surface Air Temperature | Surface air temperature (°C) |
+| Precipitation | Annual precipitation (mm/year) |
 
 STAC-Browser information from Radiant Earth
 ==============================================
